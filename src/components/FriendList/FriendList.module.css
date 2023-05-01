@@ -1,0 +1,15 @@
+.friendList {
+    margin-top: 32px;
+    width: 464px;
+    list-style: none;
+    padding: 48px 36px;
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgba(184, 231, 161, 0.945);
+    border-radius: 15px;
+    border: 2px solid gray;
+    box-shadow: 10px 12px 12px 0px gray;
+    align-items: center;
+  }
